@@ -9,6 +9,8 @@
 
 This repository contains highly optimized Python scripts to download, validate, and merge historical data from Binance Futures. Unlike simple OHLCV downloaders, this tool constructs a **comprehensive market view** by aggregating multiple data points into a single, clean Parquet or CSV file.
 
+
+https://www.kaggle.com/datasets/sid17a/btcusdt-1min-perpetual-dataset-binance-apis
 ---
 
 ## ⚡ Features
