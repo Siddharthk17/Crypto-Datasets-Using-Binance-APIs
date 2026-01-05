@@ -1,0 +1,27 @@
+{
+  "total_rows": 2980800,
+  "date_range": "2020-01-01 00:00:00+00:00 to 2025-08-31 23:59:00+00:00",
+  "columns": [
+    "open",
+    "high",
+    "low",
+    "close",
+    "volume",
+    "quote_volume",
+    "num_trades",
+    "taker_buy_base_vol",
+    "taker_buy_quote_vol",
+    "timestamp_utc",
+    "taker_sell_base_vol",
+    "taker_sell_quote_vol",
+    "mark_open",
+    "mark_high",
+    "mark_low",
+    "mark_close",
+    "index_open",
+    "index_high",
+    "index_low",
+    "index_close"
+  ],
+  "file_size_mb": 363.51796531677246
+}
